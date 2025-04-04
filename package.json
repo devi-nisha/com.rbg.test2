@@ -1,0 +1,9 @@
+{
+  "name": "com.rbg.test2",
+  "version": "1.0.0",
+  "displayName": "RBG Test2",
+  "unity": "2021.1",
+  "dependencies": {
+   "com.rbg.test1": "1.0.0"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "name": "RBG.Test2",
+    "rootNamespace": "RBG.Test2",
+    "references": [
+        "GUID:146e29119b9d98044a1a6fb2f6352fd5"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
